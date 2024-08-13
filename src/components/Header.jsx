@@ -6,7 +6,6 @@ import Button from './Button';
 const Header = () => {
     const navBar=<>
     <li>Home</li>
-    <li>About</li>
     <li>Skills</li>
     <li>Contact</li>
     </>
