@@ -6,10 +6,10 @@ const Herosection = () => {
     return (
           <Container>
             {/* -------- main div ------- */}
-              <div className='flex justify-between items-center'> 
+              <div className='flex justify-between items-center mt-11'> 
                 <div>
-                    <h5 className='font-medium'>Hey, nice to meet you!</h5>
-                    <h1>I'm Hossain</h1>
+                    <h5 className='font-medium text-[20px]'>Hey, nice to meet you!</h5>
+                    <h1 className='text-[90px] font-bold font-sans'>I'm Hossain</h1>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati maxime, at cupiditate mollitia alias corporis nesciunt! Ut nihil rem cum? Delectus dolorum explicabo ipsam cum totam iure eius reprehenderit itaque?</p>
                 </div>
                 <div>
